@@ -3,7 +3,7 @@
 
 <head>
     <title>Mansion design</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="/style.css">
 
 
 
@@ -56,11 +56,12 @@
 }
 
 .header {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/MANSION.JPG);
+    background-image: url(images/MANSION.JPG);
     height: 100vh;
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
+    background-colour: #000000;
 }
 
 .navbar {
