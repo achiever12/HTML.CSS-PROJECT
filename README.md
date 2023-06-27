@@ -56,7 +56,7 @@
 }
 
 .header {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(./images/MANSION.JPG);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/MANSION.JPG);
     height: 100vh;
     width: 100%;
     background-repeat: no-repeat;
